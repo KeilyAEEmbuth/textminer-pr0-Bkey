@@ -1,0 +1,11 @@
+README.md
+setup.py
+textminer/__init__.py
+textminer/cleaner.py
+textminer/detector.py
+textminer/summarizer.py
+textminer_pr0_Bkey.egg-info/PKG-INFO
+textminer_pr0_Bkey.egg-info/SOURCES.txt
+textminer_pr0_Bkey.egg-info/dependency_links.txt
+textminer_pr0_Bkey.egg-info/requires.txt
+textminer_pr0_Bkey.egg-info/top_level.txt
